@@ -1,16 +1,30 @@
-### Hi there 👋
+# CV / Resume 
 
-<!--
-**oskarju1/oskarju1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Information about me 
+- First Name : Oskar
+- Last Name : Jurgielaniec
+- Country : Poland
+- City : Gdańsk
+- E-mail : oskar.jurgielaniec@interia.pl
+- Date of birth : 27.08.1999
 
-Here are some ideas to get you started:
+## Education 
+- _10.2019 - present_ WSB - Wyższa Szkoła Bankowa w Gdańsku <br>
+- _09.2015 - 05.2018_ VIII Liceum Ogólnokształcące im. KEN w Gdańsku
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- 
+
+
+## Skills 
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- Git
+- MySQL
+
+## Languages
+- English - B1/B2
+
