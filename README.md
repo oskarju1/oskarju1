@@ -1,6 +1,6 @@
 # CV / Resume 
 
-## Information about me 
+## About me 
 - First Name : Oskar
 - Last Name : Jurgielaniec
 - Country : Poland
